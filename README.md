@@ -1,3 +1,3 @@
 ## Hello there, welcome to Velm 👋
 
-https://fyra.so
+https://velm.run
